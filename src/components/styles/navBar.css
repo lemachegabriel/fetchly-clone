@@ -1,0 +1,24 @@
+
+.navLogo{
+    display: inline-block;
+    padding-top:25px;
+    padding-bottom: 0.3125rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.navLogo img{
+    vertical-align: text-top;
+    width: 200px;
+}
+.navButtons{
+    font-size: 16px;
+    letter-spacing: .15em;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 200;
+}
+.navButtons a{
+    padding-top: 20px;
+    padding-left: 30px;
+    cursor: pointer;
+    text-decoration: none;
+}

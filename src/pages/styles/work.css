@@ -1,0 +1,31 @@
+.titleWork{
+    color: #242424;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+}
+.dataBox{
+    width: 100%;
+    margin: auto;
+    background-color: #fff;
+    border-top: 1px solid;
+    border-top-color: rgb(0, 0, 0, 0.2);
+    padding: 120px 1rem;
+}
+.dataBox h1{
+    color: #242424;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 75px;
+    margin-bottom: 50px;
+}
+.detailBox{
+    border: 5px solid #e2e2e2;
+    padding: 30px 50px;
+    background: white;
+    max-width: 420px;
+    font-size: 16px;
+    color: #242424;
+    font-weight: 400;
+    font-family: 'Karla', sans-serif;
+}

@@ -1,0 +1,44 @@
+.titleHome{
+    color: #171717;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 7px;
+}
+.dataBox{
+    width: 100%;
+    margin: auto;
+    background-color: #fff;
+    border-top: 1px solid;
+    border-top-color: rgb(0, 0, 0, 0.2);
+    padding: 120px 1rem;
+}
+.textDat{
+    text-align: left;
+    letter-spacing: -0.1em;
+}
+.textDat h1{
+    color: #ff6043;
+    font-size: 77px;
+    font-weight: 600;
+    line-height: 75px;
+}
+.textDat span{
+    font-size: 13px;
+    color: #242424;
+    font-weight: 400;
+    letter-spacing: .10em;
+    text-transform: uppercase;
+}
+.featList svg{
+    font-size: 55px;
+}
+.featList p{
+    margin-bottom: 0;
+}
+@media only screen and (max-width: 940px){
+    .textDat{
+        text-align: center;
+    }
+}

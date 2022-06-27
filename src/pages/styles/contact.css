@@ -1,0 +1,21 @@
+.titleContact{
+    color: #242424;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+}
+.address{
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+.address p{
+    margin-bottom: 2px;
+}
+.dataBox{
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    border-top: 1px solid;
+    border-top-color: rgb(0, 0, 0, 0.2);
+    padding: 120px 1rem;
+}
